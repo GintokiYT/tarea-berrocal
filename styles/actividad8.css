@@ -1,0 +1,5 @@
+@import url(./utils.css);
+
+.container h2 {
+  text-transform: uppercase;
+}
